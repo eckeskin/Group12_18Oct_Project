@@ -7,6 +7,8 @@ public class SaarIsmet {
 
         System.out.println("sum = " + sum);
 
+// integer olmaz
+
 
     }
 }
