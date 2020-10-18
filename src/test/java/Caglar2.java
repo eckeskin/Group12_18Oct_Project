@@ -3,5 +3,7 @@ public class Caglar2 {
         System.out.println("Rebase");
 
         //new line is added
+
+        //new line 2 is added
     }
 }
